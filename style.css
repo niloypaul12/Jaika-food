@@ -1,0 +1,23 @@
+
+.navbar{
+    box-shadow: 0 5px 10px #efefef;
+}
+.para{
+    text-align: justify;
+    margin: 5rem;
+}
+
+.nav-item{
+    text-transform: uppercase;
+}
+
+
+.img-1{
+    margin-right: 4rem;
+    margin-top: 2.5rem;
+    
+}
+
+.card{
+    box-shadow: 0 5px 10px grey;
+}
