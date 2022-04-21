@@ -23,6 +23,7 @@
 
 .btn{
     margin-left: 5rem;
+    background-color: #32CD32;
     
 }
 
@@ -50,4 +51,23 @@
 .card-text{
     text-align: justify;
     
+}
+
+/* footer */
+
+.copy{
+    color: #32CD32;
+}
+
+.f-title{
+    color: #32CD32;
+}
+
+#text{
+    text-align: justify;
+}
+
+.prdcts{
+    text-align: left;
+
 }
