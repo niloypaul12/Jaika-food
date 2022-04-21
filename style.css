@@ -2,9 +2,28 @@
 .navbar{
     box-shadow: 0 5px 10px #efefef;
 }
+
+
 .para{
     text-align: justify;
-    margin: 5rem;
+    margin-left: 5rem;
+}
+
+.article h1{
+    margin-left: 5rem;
+    margin-top:2.5rem;
+    
+    
+}
+
+.article span{
+    color: #32CD32;
+
+}
+
+.btn{
+    margin-left: 5rem;
+    
 }
 
 .nav-item{
@@ -19,5 +38,16 @@
 }
 
 .card{
-    box-shadow: 0 5px 10px grey;
+    box-shadow: 0px 5px 10px #32CD32;
+    margin-bottom: 5rem;
+}
+
+.card-title{
+
+    color: green;
+}
+
+.card-text{
+    text-align: justify;
+    
 }
