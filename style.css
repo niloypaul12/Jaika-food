@@ -22,6 +22,15 @@
     
 }
 
+@media (max-width: 427px){
+
+    #bb{
+        margin-top: -2.2rem;
+        font-size: 1rem;
+    }
+}
+
+
 .nav-item{
     text-transform: uppercase;
 }
@@ -59,4 +68,36 @@
 .prdcts{
     text-align: left;
 
+}
+
+@media (max-width: 1000px) {
+    #social{
+
+    
+    font-size: 5px;
+    }
+}
+
+@media (max-width: 2000px) and (min-width:1000px) {
+    #social{
+
+    float: right;
+    
+    }
+}
+
+@media (max-width: 1000px) {
+    #cprght{
+
+    display: flex;
+    justify-content: center;
+    font-size: smaller;
+    }
+}
+
+@media (max-width: 2000px) and (min-width:1000px) {
+    #cprght{
+
+    float: left;
+    }
 }
